@@ -1,21 +1,6 @@
 defmodule LittleProjects do
-  @moduledoc """
-  Documentation for `LittleProjects`.
-  """
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> LittleProjects.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
-
+  # Stuff with Pushover
   def send_message(title, content) do
     message = %Pushover.Model.Message{
       title: title,
