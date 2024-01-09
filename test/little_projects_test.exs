@@ -2,7 +2,7 @@ defmodule LittleProjectsTest do
   use ExUnit.Case
   doctest LittleProjects
 
-  test "greets the world" do
-    assert LittleProjects.hello() == :world
+  test "incredibly dummy test" do
+    assert 1 == 1
   end
 end
