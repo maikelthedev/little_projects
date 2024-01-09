@@ -37,4 +37,7 @@ defmodule LittleProjects do
 
     Pushover.Api.Messages.send(message)
   end
+
+  # Stuff you should try with httppoison
+  #https://hexdocs.pm/httpoison/readme.html
 end
