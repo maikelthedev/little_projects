@@ -143,4 +143,7 @@ defmodule LittleProjects do
   # Kaffy
   # Admin interface for Phoenix
   # https://github.com/aesmail/kaffy
+
+  # OF COURSE this 👇
+  # https://github.com/h4cc/awesome-elixir
 end
